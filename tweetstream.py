@@ -9,10 +9,10 @@ import re
 #Variables that contain the user credentials to access Twitter API
 
 
-consumer_key = 'CsZGk92EBPSu6bIdyPm1s8Jfl'
-consumer_secret = '4Yk1Elgi7IPpuenvKNLzylIkhWxM8hf8ev7pPTKtbT02iJee9H'
-access_token = '3371544088-v2ShB55O460CdG0JbX2ThDjILfFCeT2mXbudzhM'
-access_token_secret = '7j7oBVv7YJ16AyGiOjp2tGoFEYzRUIHss3LWAG5JFeFNo'
+consumer_key = 'user credentials'
+consumer_secret = 'user credentials'
+access_token = 'user credentials'
+access_token_secret = 'user credentials'
 
 
 def word_in_text(word, text):
